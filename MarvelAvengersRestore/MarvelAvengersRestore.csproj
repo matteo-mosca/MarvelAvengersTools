@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon>Hopstarter-Superhero-Avatar-Avengers-Thor.ico</ApplicationIcon>
+    <StartupObject>MarvelAvengersRestore.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>
